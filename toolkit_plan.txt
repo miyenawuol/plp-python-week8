@@ -1,0 +1,21 @@
+Python Multi-Tool Utility Program Plan
+
+1. Chosen Tools:
+- Tool 1: Number Guessing Game — A mini-game where the computer picks a random number between 1 and 10, and the user tries to guess it with hint feedback (too high/too low).
+- Tool 2: Quick To-Do List Manager — An interactive task manager that lets the user view, add, and clear tasks in a running list.
+- Tool 3: Tip Calculator — A quick utility that calculates the total bill and tip amount based on bill size and service quality.
+
+2. Exact Menu Text:
+============================
+   WELCOME TO PYTHON TOOLKIT
+============================
+1. Number Guessing Game
+2. Quick To-Do List Manager
+3. Tip Calculator
+4. Quit
+----------------------------
+
+3. Concepts Used per Tool:
+- Tool 1 (Number Guessing Game): while loop, if/elif/else conditionals, random module, f-strings.
+- Tool 2 (To-Do List Manager): while loop, lists (append, clear), conditionals, f-strings.
+- Tool 3 (Tip Calculator): conditionals, arithmetic operators, f-strings.
